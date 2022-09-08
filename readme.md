@@ -1,0 +1,1 @@
+Arquivos .md são arquivos mark down, são arquivos de textos.
